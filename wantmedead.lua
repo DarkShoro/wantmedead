@@ -204,7 +204,7 @@ end)
 SOUNDSTART_CTP = false 
 OZJFOZJCEZIO = true 
 
-sound.PlayURL("https://plasmatale.cf/wantmedead.mp3","mono noblock noplay",function(s) 
+sound.PlayURL("https://plasmatale.cf/shewantmedead.mp3","mono noblock noplay",function(s) 
 	if not s then return end 
 	if SOUNDSTART_CTP then s:Stop() return end 
 	SOUNDSTART_CTP = true 
